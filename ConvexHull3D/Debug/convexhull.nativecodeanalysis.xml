@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DEFECTS>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\bartl\documents\visual studio 2017\projects\convexhull3d\convexhull3d\</FILEPATH>
+      <FILENAME>convexhull.cpp</FILENAME>
+      <LINE>123</LINE>
+      <COLUMN>10</COLUMN>
+    </SFA>
+    <DEFECTCODE>6246</DEFECTCODE>
+    <DESCRIPTION>Lokalna deklaracja „i” ukrywa deklarację o tej samej nazwie w zewnętrznym zakresie. Dodatkowe informacje można znaleźć w poprzedniej deklaracji w wierszu „94” w „c:\users\bartl\documents\visual studio 2017\projects\convexhull3d\convexhull3d\convexhull.cpp”.</DESCRIPTION>
+    <FUNCTION>ConvexHull::findFirstTetrahedron</FUNCTION>
+    <DECORATED>?findFirstTetrahedron@ConvexHull@@AAEXXZ</DECORATED>
+    <FUNCLINE>91</FUNCLINE>
+    <PATH>
+      <SFA>
+        <FILEPATH>c:\users\bartl\documents\visual studio 2017\projects\convexhull3d\convexhull3d\</FILEPATH>
+        <FILENAME>convexhull.cpp</FILENAME>
+        <LINE>94</LINE>
+        <COLUMN>9</COLUMN>
+      </SFA>
+    </PATH>
+  </DEFECT>
+</DEFECTS>
